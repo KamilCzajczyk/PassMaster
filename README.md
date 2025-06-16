@@ -2,6 +2,11 @@
 
 PassMaster is a modern, secure password manager for Android, built with Jetpack Compose. It allows you to safely store, manage, and export your passwords, with strong encryption and a user-friendly interface.
 
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/52ee2bf1-a60f-4157-b37a-3105ee083f85" width="auto" height="800"/>
+<img src="https://github.com/user-attachments/assets/bce194fc-a3d0-4232-ada4-53d90d09d679" width="auto" height="800"/>
+
 ## Features
 
 - **Master Password Protection**: All your data is encrypted with a master password.
